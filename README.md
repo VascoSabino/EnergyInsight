@@ -2,7 +2,9 @@
 
 
 ![energy_sector2](https://github.com/vasco99/EnergyInsight/assets/43729815/4d1fb88d-1adf-437a-b4b3-7633ef6841a2)
-![energy_sector1](https://github.com/vasco99/EnergyInsight/assets/43729815/9a2ca21c-1e99-4da6-84d9-4307c4a9e724)
+![energy_sector2 - Cópia](https://github.com/vasco99/EnergyInsight/assets/43729815/b17d4943-5bca-41e5-b7eb-440ff08eeada)
+
+
 
 1. The program reads the Penn Table as it is downloaded from the website. No changes are made; it is raw: https://www.rug.nl/ggdc/productivity/pwt/?lang=en
 
