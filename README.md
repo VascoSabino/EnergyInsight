@@ -4,7 +4,7 @@ With EnergyInsight (MATLAB), you can navigate ENERGY and EXERGY datasets effortl
 
 Choose from categories like total energy, energy by sector, total exergy, exergy by sector, and Penn World Table.
 
-It's over 25 countries from 1960 to 2019. The ENERGY data is brought by the International Energy Agency (IEA), and the EXERGY by the people of Exergy Economics (https://exergyeconomics.wordpress.com/). In 'more_info.txt', you will find more information about the csv and excel files.
+Over 25 countries from 1960 to 2019. The ENERGY data is brought by the International Energy Agency (IEA), and the EXERGY by the people of Exergy Economics (https://exergyeconomics.wordpress.com/). In 'more_info.txt', you will find more information about the csv and excel files.
 
 For energy researchers, students, and professionals.
 
