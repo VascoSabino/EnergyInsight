@@ -1,0 +1,7 @@
+1. The program reads the Penn Table as it is downloaded from the website. No changes are made; it is raw: https://www.rug.nl/ggdc/productivity/pwt/?lang=en
+2. The program reads the energy and exergy .csv files. The .excel and .csv formats must be followed. 
+
+The program is robust, adjusting to new variables and years as it is updated (e.g., Penn World Table). If the program is not reading correctly, compare your .excel and .csv files with the present ones. Pay special attention to special characters, mainly quotation marks, which should be avoided.
+
+
+joaovascosabinopinto@hotmail.com
