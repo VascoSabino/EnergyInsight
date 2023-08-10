@@ -14,7 +14,4 @@ joaovascosabinopinto@hotmail.com
 ![energy_sector2](https://github.com/vasco99/EnergyInsight/assets/43729815/4d1fb88d-1adf-437a-b4b3-7633ef6841a2)
 ![exergy_sector1](https://github.com/vasco99/EnergyInsight/assets/43729815/92268db7-616d-4020-9fac-51e82fb05b3e)
 ![energy_total1](https://github.com/vasco99/EnergyInsight/assets/43729815/6e042346-ca3d-40ce-a7a7-41abe85ea93a)
-![Uploading energy_total2.png…]()
-
-
-
+![energy_total2](https://github.com/vasco99/EnergyInsight/assets/43729815/236ceb5a-0756-49ec-b421-5e560df42c8f)
