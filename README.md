@@ -1,17 +1,12 @@
 # EnergyInsight
 
 With EnergyInsight (MATLAB), you can navigate ENERGY and EXERGY datasets effortlessly. 
+
 Choose from categories like total energy, energy by sector, total exergy, exergy by sector, and Penn World Table.
+
 It's over 25 countries from 1960 to 2019. The ENERGY data is brought by the International Energy Agency (IEA), and the EXERGY by the people of Exergy Economics (https://exergyeconomics.wordpress.com/).
 
 For energy researchers, students, and professionals.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-1. The program reads the Penn Table as it is downloaded from the website. No changes are made; it is raw: https://www.rug.nl/ggdc/productivity/pwt/?lang=en
-2. The program reads the energy and exergy .csv files. The .excel and .csv formats must be followed. 
-
-The program is robust, adjusting to new variables and years as it is updated (e.g., Penn World Table). If the program is not reading correctly, compare your .excel and .csv files with the present ones. Pay special attention to special characters, mainly quotation marks, which should be avoided.
 
 Thanks!
 joaovascosabinopinto@hotmail.com
